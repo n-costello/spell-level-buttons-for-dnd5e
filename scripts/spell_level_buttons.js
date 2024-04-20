@@ -35,7 +35,7 @@ Hooks.on('renderAbilityUseDialog', function(options) {
             if(value == "pact") {
                 i = "p" + $(this).text().match(/\d/)[0]; // Get the pact slot level
             } else {
-                i = value;
+                i = value.slice(-1);;
             }
 
             if(availableSlots > 0) {
