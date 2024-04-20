@@ -37,8 +37,8 @@
   "languages": [
 
   ],
-  "manifest": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/releases/latest/download/module.json",
+  "manifest": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/releases/download/latest/module.json",
   "url": "https://github.com/n-costello/spell-level-buttons-for-dnd5e",
-  "download": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/releases/latest/download/spell-level-buttons-for-dnd5e.zip",
+  "download": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/releases/download/latest/spell-level-buttons-for-dnd5e.zip",
   "readme": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/blob/master/README.md"
 }
