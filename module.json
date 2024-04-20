@@ -2,7 +2,7 @@
   "id": "spell-level-buttons-for-dnd5e",
   "title": "Spell Level Buttons for DnD 5e",
   "description": "Replaces the spell level select dropdown menu with buttons",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "compatibility": {
 	
     "minimum": "11",
