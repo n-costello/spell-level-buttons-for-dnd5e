@@ -5,8 +5,8 @@
   "version": "1.0.4",
   "compatibility": {
 	
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "11"
   },
   "authors": [
     {
@@ -16,7 +16,7 @@
       "flags": {}
     },
 	    {
-      "name": "UnoriginalDM",
+      "name": "n-costello",
       "email": "",
       "url": "",
       "flags": {}
@@ -31,8 +31,8 @@
   "languages": [
 
   ],
-  "manifest": "https://github.com/UnoriginalDM/spell-level-buttons-for-dnd5e/releases/latest/download/module.json",
-  "url": "https://github.com/UnoriginalDM/spell-level-buttons-for-dnd5e",
-  "download": "https://github.com/UnoriginalDM/spell-level-buttons-for-dnd5e/releases/latest/download/spell-level-buttons-for-dnd5e.zip",
-  "readme": "https://github.com/UnoriginalDM/spell-level-buttons-for-dnd5e/blob/master/README.md"
+  "manifest": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/releases/latest/download/module.json",
+  "url": "https://github.com/n-costello/spell-level-buttons-for-dnd5e",
+  "download": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/releases/latest/download/spell-level-buttons-for-dnd5e.zip",
+  "readme": "https://github.com/n-costello/spell-level-buttons-for-dnd5e/blob/master/README.md"
 }
